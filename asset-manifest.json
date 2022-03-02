@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rakeshsonkar/react-CompanyManagement/static/css/main.7902afed.css",
+    "main.js": "/rakeshsonkar/react-CompanyManagement/static/js/main.a41d0f60.js",
+    "static/js/787.7efd31bd.chunk.js": "/rakeshsonkar/react-CompanyManagement/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/rakeshsonkar/react-CompanyManagement/index.html",
+    "main.7902afed.css.map": "/rakeshsonkar/react-CompanyManagement/static/css/main.7902afed.css.map",
+    "main.a41d0f60.js.map": "/rakeshsonkar/react-CompanyManagement/static/js/main.a41d0f60.js.map",
+    "787.7efd31bd.chunk.js.map": "/rakeshsonkar/react-CompanyManagement/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7902afed.css",
+    "static/js/main.a41d0f60.js"
+  ]
+}
