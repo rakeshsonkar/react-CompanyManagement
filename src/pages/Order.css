@@ -1,0 +1,92 @@
+
+/*fast track css start here*/
+
+.list-companies-select-box {
+    border: none;
+    font-size: 15px;
+    padding: 5px 0px 5px 0px;
+    background: transparent; 
+    color:#000;   
+    }
+    
+    
+    .my-order-table-area {
+    box-shadow: 0px 1px 2px 1px rgb(154 154 204 / 22%);
+    color: #4A4A4A;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    background-color: #fff;
+    border-radius: 4px;
+    width: 100%;
+    padding: 20px 15px 30px 15px;   
+    }
+    
+    .my-order-table-area .table thead th {
+    font-weight: 400;
+    padding: 8px 7px 6px 7px;
+    vertical-align: top;
+    border: 1px solid #cdcdcd;  
+    }
+    
+    
+    .my-order-table-area .row-divde-colum th {
+    padding: 7px 0px 7px 10px;
+    border: 1px solid #cdcdcd;   
+    }
+    
+    .my-order-table-area tr td {
+    padding-left: 20px;
+    border: 1px solid #cdcdcd;   
+    }
+    
+    .total-hightlite-main-box {
+    border: 2px solid #cdcdcd;    
+    }
+    
+    .my-order-table-area .total-hightlite-main-box td {
+     font-weight:600;   
+    }
+    
+    /*fast track css end here*/
+
+.total-hightlite-main-box {
+    border: 2px solid #cdcdcd;    
+    }
+    
+    .my-order-table-area .total-hightlite-main-box td {
+     font-weight:600;   
+    }
+
+    table.dataTable th {
+        font-weight:500;    
+        }
+        
+        .circle-position-main-area {
+        margin:0px 0px 40px 0px; 
+        display:flex;   
+        }
+        
+        .circle-position-main-area i {
+        color:#fff;    
+        }
+        
+        .dlt-btn {
+            border: none;
+            color: red;
+            margin: 0px 0px 0px 10px;
+        }
+        
+        .fa-edit {
+         color:green;   
+        }
+
+        .circle-position-main-area p {
+            margin: 5px 0px 0px 15px;
+            font-size: 17px;
+            font-weight: 600; 
+        }
+
+
+        .btn.btn-info.rounded-circle.ml-auto{
+        background:#203444;  
+        border: 1px solid #203444;  
+        }

@@ -1,0 +1,41 @@
+.col img {width: 35px;
+    height: 35px;
+    object-fit: contain;
+    margin: 20px 0px 20px 0px;}
+    .form-label {
+        font-size: 15px;
+        font-weight: 500;    
+        }
+        
+        
+        .form-control {
+            padding: 7px 0px 8px 10px; 
+            border: 2px solid #cdcdcd; 
+            height:inherit;
+            border-radius: 5px;
+        }
+        
+        
+        .form-select {
+            padding: 7px 0px 8px 10px; 
+            border: 2px solid #cdcdcd; 
+            height:inherit;
+            border-radius: 5px;  
+        }
+        
+        .add-compnay-submit-btn {
+            text-align: center;
+        }
+        
+        
+        .btn-outline-danger {
+            border: 1px solid transparent;
+            padding: 8px 30px;
+            border-radius:5px; 
+            border: 2px solid #f33155;
+        }
+        
+        .btn-outline-danger:hover {
+        background:#f33155;
+        color: #fff;    
+        }

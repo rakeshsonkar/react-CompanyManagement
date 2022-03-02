@@ -1,0 +1,28 @@
+
+
+.manage-admins-table-area {
+ padding:0px 15px 0px 15px;   
+}
+
+
+table.dataTable th {
+font-weight:500;    
+}
+
+.circle-position-main-area {
+margin:0px 0px 20px 0px;    
+}
+
+.circle-position-main-area i {
+color:#fff;    
+}
+
+.dlt-btn {
+    border: none;
+    color: red;
+    margin: 0px 0px 0px 10px;
+}
+
+.fa-edit {
+ color:green;   
+}

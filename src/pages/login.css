@@ -1,0 +1,96 @@
+.login-main-box-area {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+    }
+    
+    .login-form-input-area {
+    box-shadow: 0px 1px 2px 1px rgb(154 154 204 / 22%);
+    color: #4A4A4A;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 20px 20px 20px 20px;  
+    width:70%; 
+    margin:auto; 
+    }
+    
+    .login-main-area {
+     text-align:center;   
+    }
+    
+    .login-main-area img {
+    width:20%;   
+    margin: 0px 0px 25px 0px; 
+    }
+    
+    .login-form-input-area label {
+    color: #4A4A4A;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.5rem;
+    margin: 0px 0px 10px 0px;
+    }
+    
+    
+    .login-form-input-area .form-control {
+    height: inherit;
+    padding: 10px 10px;
+    border:1px solid #cdcdcd;
+    border-radius: 5px;   
+    }
+    
+    .login-form-input-area .form-check-label {
+     font-size:16px;   
+    }
+    
+    .forgot-password-main-area {
+    text-align:right;    
+    }
+    
+    .forgot-password-main-area a {
+    color: #4A4A4A;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.5rem;
+    }
+    
+    .register-here-box-area {
+    text-align:center; 
+    margin: 30px 0px 0px 0px;
+    }
+    
+    .register-here-box-area p {
+    color: #4A4A4A;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.5rem;   
+    }
+    
+    
+    .register-here-box-area p a {
+    color: #0d6efd;  
+    }
+    
+    .login-form-submint-btn {
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #FF5C93;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+    padding: 12px 40px;
+    font-weight: 500;
+    border-radius: 4px;
+    letter-spacing: 0.02857em;
+    }
+    
+    .login-form-submint-btn {
+    background-color: #ff0f60;
+    color: #fff;   
+    }
+    
+    
+    .contact-form-submint-btn-area a {
+    color:#fff;    
+    }
+    
